@@ -1,0 +1,13 @@
+name: deploy
+title:
+username:
+account: milanna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9198393
+bundleId: 7274252
+url: https://milanna.shinyapps.io/deploy/
+when: 1685292897.46801
+lastSyncTime: 1685292897.46805
+asMultiple: FALSE
+asStatic: FALSE

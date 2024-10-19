@@ -1,0 +1,28 @@
+.ButtonNext {
+    background-color: firebrick; 
+    color: white; 
+    border-radius: 10px;
+    padding:10px 20px;
+    margin:10px;
+  }
+  
+.ButtonPrevious {
+  border-radius: 10px;
+  padding:10px 20px;
+  margin:10px;
+}
+
+.ButtonPrevious:hover{
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    background-color: white;
+    margin:10px;
+}
+
+.ButtonNext:hover{
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    background-color: firebrick;
+    color: white; 
+    border-radius: 10px;
+    padding:10px 20px;
+    margin:10px;
+}
