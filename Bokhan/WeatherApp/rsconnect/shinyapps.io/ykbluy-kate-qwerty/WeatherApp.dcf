@@ -1,0 +1,13 @@
+name: WeatherApp
+title: WeatherApp
+username:
+account: ykbluy-kate-qwerty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9199286
+bundleId: 7275154
+url: https://ykbluy-kate-qwerty.shinyapps.io/WeatherApp/
+when: 1685317730.07363
+lastSyncTime: 1685317730.07365
+asMultiple: FALSE
+asStatic: FALSE
